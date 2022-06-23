@@ -1,1 +1,1 @@
-# kinga-16757
+Kinga 16757 informatyka C3
